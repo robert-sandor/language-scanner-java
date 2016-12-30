@@ -1,0 +1,14 @@
+main {
+    var i : int = +1 ;
+    var c : char = 'a' ;
+    var s : string = "ceva" ;
+    var a : array : int = [ 1 , -2 ] ;
+
+    if ( a <= b ) {
+        c = 'b' ;
+    }
+
+    while ( i > 1 ) {
+        i = i - 1 ;
+    }
+}
